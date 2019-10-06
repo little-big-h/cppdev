@@ -6,6 +6,6 @@ RUN apt update && \
 		aptitude\
 		binutils-dev\
 		build-essential\
-		cmake
+		cmake\
 		git\
 		make
