@@ -10,4 +10,7 @@ RUN apt update && \
 		git\
 		python\
 		make\
-		autoconf
+		autoconf\
+		libncurses5-dev\
+		libtool\
+		pkgconfig
