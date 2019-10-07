@@ -9,4 +9,5 @@ RUN apt update && \
 		cmake\
 		git\
 		python\
-		make
+		make\
+		autoconf
