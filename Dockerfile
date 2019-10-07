@@ -8,4 +8,5 @@ RUN apt update && \
 		build-essential\
 		cmake\
 		git\
+		python\
 		make
