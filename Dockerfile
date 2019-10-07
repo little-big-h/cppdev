@@ -13,4 +13,5 @@ RUN apt update && \
 		autoconf\
 		libncurses5-dev\
 		libtool\
-		pkg-config
+		pkg-config\
+		autoconf-archive
