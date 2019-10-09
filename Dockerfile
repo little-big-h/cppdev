@@ -14,4 +14,5 @@ RUN apt update && \
 		libncurses5-dev\
 		libtool\
 		pkg-config\
-		autoconf-archive
+		autoconf-archive\
+		valgrind
