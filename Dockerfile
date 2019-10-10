@@ -15,4 +15,5 @@ RUN apt update && \
 		libtool\
 		pkg-config\
 		autoconf-archive\
-		valgrind
+		valgrind\
+		ninja-build
